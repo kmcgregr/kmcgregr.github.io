@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin McGregor - IT Architect"
+title                    : "Kevin McGregor - IT Professional"
 title_separator          : "-"
 name                     : "Kevin McGregor"
 description              : "IT Architect"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kevin McGregor - IT Professional"
+  name             : "Kevin McGregor"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "IT Architect"
   location         : "London,Ontario"
