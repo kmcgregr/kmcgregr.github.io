@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kevin McGregor"
+  name             : "Kevin McGregor - IT Professional"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "IT Architect"
   location         : "London,Ontario"
@@ -118,7 +118,7 @@ author:
       url: "https://twitter.com/kdmcgreg"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-square"
-      # url: "https://www.linkedin.com/in/kevindmcgregor"
+      url: "https://www.linkedin.com/in/kevindmcgregor"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
