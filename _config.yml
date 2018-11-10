@@ -147,10 +147,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
-
+include : ["_pages"]
 # Reading Files
-include: ['_pages']
+include:
   - .htaccess
   - _pages
 exclude:
