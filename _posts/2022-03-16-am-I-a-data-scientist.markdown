@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2022-02-27 20:17:12 +0000
-categories: jekyll update
+title:  "Am I a data scienetis now ?"
+date:   2022-03-16 20:17:12 +0000
+categories: data science
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
+I received my data science certificate from Sheridan College; however does that make me a data scientist.
 Jekyll requires blog post files to be named according to the following format:
 
 `YEAR-MONTH-DAY-title.MARKUP`
