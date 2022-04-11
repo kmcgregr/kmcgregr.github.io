@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Am I a data scienetis now ?"
+title:  "Am I a data scientist now ?"
 date:   2022-03-16 20:17:12 +0000
 categories: data science
 ---
